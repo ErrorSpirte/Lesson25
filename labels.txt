@@ -1,0 +1,4 @@
+0 Real cat
+1 Real dog
+2 Fake cat
+3 Fake dog
